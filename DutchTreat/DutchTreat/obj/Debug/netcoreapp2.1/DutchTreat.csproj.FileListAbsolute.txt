@@ -1,0 +1,14 @@
+C:\Onedrive\ASP.net\02\demos\after\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+C:\Onedrive\ASP.net\02\demos\after\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+C:\Onedrive\ASP.net\02\demos\after\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+C:\Onedrive\ASP.net\02\demos\after\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+C:\Onedrive\ASP.net\02\demos\after\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+C:\Onedrive\ASP.net\02\demos\after\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csprojAssemblyReference.cache
+C:\Onedrive\ASP.net\02\demos\after\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\Onedrive\ASP.net\02\demos\after\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+C:\Onedrive\ASP.net\02\demos\after\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+C:\Onedrive\ASP.net\02\demos\after\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+C:\Onedrive\ASP.net\02\demos\after\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+C:\Onedrive\ASP.net\02\demos\after\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\Onedrive\ASP.net\02\demos\after\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+C:\Onedrive\ASP.net\02\demos\after\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
