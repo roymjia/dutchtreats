@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Onedrive\\ASP.net\\02\\demos\\after\\DutchTreat\\DutchTreat\\DutchTreat.csproj",
+      "projectUniqueName": "C:\\Github\\asp.net\\DutchTreat\\DutchTreat\\DutchTreat.csproj",
       "projectName": "DutchTreat",
-      "projectPath": "C:\\Onedrive\\ASP.net\\02\\demos\\after\\DutchTreat\\DutchTreat\\DutchTreat.csproj",
+      "projectPath": "C:\\Github\\asp.net\\DutchTreat\\DutchTreat\\DutchTreat.csproj",
       "packagesPath": "C:\\Users\\thisi\\.nuget\\packages\\",
-      "outputPath": "C:\\Onedrive\\ASP.net\\02\\demos\\after\\DutchTreat\\DutchTreat\\obj\\",
+      "outputPath": "C:\\Github\\asp.net\\DutchTreat\\DutchTreat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

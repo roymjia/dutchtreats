@@ -6,43 +6,45 @@
     <link href="css/site.css" rel="stylesheet" />
 </head>
 <body>
-   <h1>Dutch Treats</h1>
-   <div>
-       <img src="img/VanGogh.jpg" />
-       <h3>Mug</h3>
-       <ul>
-           <li>Price: $9.99</li>
-           <li>Artist: Van Gogh</li>
-           <li>Title: Portrait</li>
-           <li>Description: Self Portrait</li>
-       </ul>
-       <button>Buy</button>
-   </div>
-
-   <form>
-       <label>Username:</label>
-       <br />
-       <input />
-       <br />
-       <label>Password:</label>
-       <br />
-       <input type="password" />
-       <br />
-       <label>email:</label>
-       <br />
-       <input type="email" />
-       <br />
-       <label>subject:</label>
-       <br />
-       <input type="text" />
-       <br />
-       <label>Message:</label>
-       <br />
-       <textarea rows="4"></textarea>
-       <br />
-       <br />
-       <input type="submit" value="Send Message" />
-       <br />
-   </form>
+    <h1>Dutch Treats</h1>
+    <div class="product-info">
+        <img src="img/VanGogh.jpg" />
+        <h3>Mug</h3>
+        <ul class="product-props">
+            <li>Price: $9.99</li>
+            <li>Artist: Van Gogh</li>
+            <li>Title: Portrait</li>
+            <li>Description: Self Portrait</li>
+        </ul>
+        <button>Buy</button>
+    </div>
+    <div id="theForm">
+        <form>
+            <label>Username:</label>
+            <br />
+            <input />
+            <br />
+            <label>Password:</label>
+            <br />
+            <input type="password" />
+            <br />
+            <label>email:</label>
+            <br />
+            <input type="email" />
+            <br />
+            <label>subject:</label>
+            <br />
+            <input type="text" />
+            <br />
+            <label>Message:</label>
+            <br />
+            <textarea rows="4"></textarea>
+            <br />
+            <br />
+            <input type="submit" value="Send Message" />
+            <br />
+        </form>
+    </div>
+<script src="js/index.js"></script>
 </body>
 </html>
