@@ -22,6 +22,6 @@ namespace DutchTreat
         {
             app.UseDefaultFiles();
             app.UseStaticFiles();
-        }
+            app.UseNodeModules(env);        }
     }
 }

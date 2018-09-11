@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "8d19439ef22c432fe18f0eac697c8789fe30c00a"
+    "signature": "a4a4155f5fec88df2b2dc6e6327faa55ef2287af"
   },
   "compilationOptions": {
     "defines": [
@@ -25,7 +25,8 @@
       "DutchTreat/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.App": "2.1.1",
-          "Microsoft.NETCore.App": "2.1.0"
+          "Microsoft.NETCore.App": "2.1.0",
+          "OdeToCode.UseNodeModules": "1.0.6"
         },
         "runtime": {
           "DutchTreat.dll": {}
@@ -203,6 +204,23 @@
       "NETStandard.Library/2.0.3": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "2.1.0"
+        }
+      },
+      "OdeToCode.UseNodeModules/1.0.6": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Hosting.Abstractions": "2.1.1",
+          "Microsoft.AspNetCore.Http.Abstractions": "2.1.1",
+          "Microsoft.AspNetCore.StaticFiles": "2.1.1",
+          "Microsoft.Extensions.FileProviders.Physical": "2.1.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/OdeToCode.UseNodeModules.dll": {
+            "assemblyVersion": "1.0.6.0",
+            "fileVersion": "1.0.6.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/OdeToCode.UseNodeModules.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3204,6 +3222,13 @@
       "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "OdeToCode.UseNodeModules/1.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mE838R7RdMaQ3csLrWMCeeG8UtL5jdfEFlYjRTit6EfOTB17sLoV/tmNdAXl59ht0Rcb+9m3t9rqyC7gVEz21A==",
+      "path": "odetocode.usenodemodules/1.0.6",
+      "hashPath": "odetocode.usenodemodules.1.0.6.nupkg.sha512"
     },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "type": "package",
